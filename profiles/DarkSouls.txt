@@ -1,0 +1,63 @@
+/	Every entry needs a TAB after it, even if it be left blank.
+REQUIREDDUDLINE	
+c1	
+c#1	
+d1	
+d#1	
+e1	
+f1	
+f#1	
+g1	
+g#1	
+a1	
+a#1	
+b1	
+c2	DIK_TAB
+c#2	
+d2	
+d#2	
+e2	DIK_A
+f2	
+f#2	DIK_S
+g2	
+g#2	DIK_W
+a2	DIK_LSHIFT
+a#2	
+b2	DIK_D
+c3	
+c#3	
+d3	
+d#3	
+e3	
+f3	
+f#3	
+g3	
+g#3	DIK_E
+a3	DIK_SPACE
+a#3	
+b3	
+c4	DIK_H
+c#4	DIK_U
+d4	
+d#4	DIK_O
+e4	DIK_Q
+f4	
+f#4	DIK_BACK
+g4	
+g#4	
+a4	DIK_LCONTROL
+a#4	
+b4	
+c5	DIK_J
+c#5	DIK_I
+d5	DIK_K
+d#5	
+e5	DIK_L
+f5	DIK_C
+f#5	
+g5	
+g#5	DIK_F
+a5	
+a#5	DIK_R
+b5	
+c6	DIK_V
